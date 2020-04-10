@@ -11,6 +11,8 @@ The reason why we named our team "growing" literally means that we will grow.
 
 2019089034 KIM HYUNJIN
 
+**About Me :**
+
 _My name is danbi Lim and I am majoring in computer science._
 
 _I have many shortcomings, but I will study hard._
