@@ -11,10 +11,10 @@ The reason why we named our team "growing" literally means that we will grow.
 
 2019089034 KIM HYUNJIN
 
-_My name is danbi Lim and I am majoring in computer science.
+_My name is danbi Lim and I am majoring in computer science._
 
-I have many shortcomings, but I will study hard.
+_I have many shortcomings, but I will study hard._
 
-I'm really looking forward to the development through open source!
+_I'm really looking forward to the development through open source!_
 
-Thank you_
+_Thank you._
