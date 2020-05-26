@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_city_list_titles">
+        <item>Seoul</item>
+        <item>Busan</item>
+        <item>Gyeonggi-do</item>
+        <item>Gangwon-do</item>
+        <item>Chungcheongdo</item>
+        <item>Gyeongsangdo</item>
+        <item>Jeollado</item>
+    </string-array>
+    <string-array name="pref_city_list_values">
+        <item>1835847</item>
+        <item>1838519</item>
+        <item>1841610</item>
+        <item>1843125</item>
+        <item>1845105</item>
+        <item>1902028</item>
+        <item>1845788</item>
+    </string-array>
+
+</resources>
